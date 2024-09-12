@@ -22,11 +22,11 @@ Instead, opt for genuine and affordable Softaculous licenses from **[LicenseDash
      lic_softaculous
      ```
 
-[
+
 
 ![licenseDash logo (SM)](https://licensedash.com/wp-content/uploads/2024/06/licenseDash-logo-SM.png)
 
-](https://licensedash.com/)
+(https://licensedash.com/)
 
 **LicenseDash** provides a straightforward and cost-effective way to manage your Softaculous licensing needs.
 
