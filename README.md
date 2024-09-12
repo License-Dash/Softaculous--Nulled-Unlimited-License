@@ -1,8 +1,5 @@
-Cheap Shared License
-
-Softaculous
+Softaculous License Activation
 ===========
-# Softaculous License Management
 
 There is **no legitimate "Softaculous Nulled"** version available. Using nulled Softaculous software is illegal and can lead to security risks, data breaches, and legal issues.
 
